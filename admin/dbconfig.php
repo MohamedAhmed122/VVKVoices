@@ -1,5 +1,6 @@
 <?php 
 
-$conn = mysqli_connect('localhost','root','','php_blog');
+$conn = mysqli_connect('localhost', 'root', '', 'blogphp');
+
 
 ?>

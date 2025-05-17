@@ -73,16 +73,17 @@
                     <div class="content">
                       <ul>
                         <li>
-                          <h5>090-484-8080</h5>
+                          <h5>+370 (692) 43 371</h5>
                           <span>PHONE NUMBER</span>
                         </li>
                         <li>
-                          <h5>info@company.com</h5>
+                          <h5>mohamed.youssef@vvk.com</h5>
+                          <h5>kareem@vvk.com</h5>
                           <span>EMAIL ADDRESS</span>
                         </li>
                         <li>
-                          <h5>123 Aenean id posuere dui, 
-                          	<br>Praesent laoreet 10660</h5>
+                          <h5>Vilniaus verslo kolegija, 
+                          	<br>Kalvarijų g. 129-401</h5>
                           <span>STREET ADDRESS</span>
                         </li>
                       </ul>
@@ -95,7 +96,17 @@
           
           <div class="col-lg-12">
             <div id="map">
-              <iframe src="https://maps.google.com/maps?q=Av.+L%C3%BAcio+Costa,+Rio+de+Janeiro+-+RJ,+Brazil&t=&z=13&ie=UTF8&iwloc=&output=embed" width="100%" height="450px" frameborder="0" style="border:0" allowfullscreen></iframe>
+            <iframe 
+              src="https://www.google.com/maps?q=Vilniaus%20verslo%20kolegija,%20Kalvarij%C5%B3%20g.%20129-401,%20Vilnius,%2008221,%20Lithuania&output=embed" 
+              width="100%" 
+              height="450" 
+              frameborder="0" 
+              style="border:0;" 
+              allowfullscreen="" 
+              loading="lazy" 
+              referrerpolicy="no-referrer-when-downgrade">
+            </iframe>
+
             </div>
           </div>
           

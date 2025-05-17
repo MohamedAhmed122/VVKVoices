@@ -12,9 +12,9 @@
           </div> -->
           <div class="col-lg-12">
             <div class="copyright-text">
-              <p>Copyright 2022 Arisim Blog.
+              <p>Copyright 2025 VVK Blog.
                     
-                 | Developed By :  <a rel="nofollow" href="index.php" target="_parent">Arisim</a></p>
+                 | Developed By :  <a rel="nofollow" href="index.php" target="_parent">Mohamed Youssef & Kareem Hakem</a></p>
             </div>
           </div>
         </div>

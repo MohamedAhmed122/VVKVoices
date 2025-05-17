@@ -41,3 +41,6 @@ while ($row = mysqli_fetch_assoc($query)) {
       </div>
 
   
+<!-- http://localhost/Blog-php-mysql/  -->
+
+<!-- http://localhost/phpmyadmin  -->

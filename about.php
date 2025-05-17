@@ -21,73 +21,55 @@
 
 
     <section class="about-us">
-      <div class="container">
-      	
-        <div class="row">
-          <div class="col-lg-12">
-            <img src="assets/images/about-us.jpg" alt="">
-            <p>Please tell your friends about TemplateMo website. Thank you. You can browse through different categories of templates such as <a rel="nofollow" href="https://templatemo.com/tag/business" target="_parent">business</a>, <a rel="nofollow" href="https://templatemo.com/tag/portfolio" target="_parent">portfolio</a>, <a rel="nofollow" href="https://templatemo.com/tag/restaurant" target="_parent">restaurant</a>, etc. Pellentesque quis luctus libero. Maecenas pretium molestie erat, ac tincidunt leo gravida ac. Cras ullamcorper eu ipsum eu sollicitudin. Fusce vitae commodo turpis. Integer ullamcorper purus nec justo mollis fermentum. Nunc imperdiet erat nec lacinia laoreet. <br><br>Maecenas faucibus ullamcorper felis vitae finibus. Nullam at quam ut lacus aliquam tempor vel sed ipsum. Donec pellentesque tincidunt imperdiet. Mauris sit amet justo vulputate, cursus massa congue, vestibulum odio. Aenean elit nunc, gravida in erat sit amet, feugiat viverra leo. Phasellus interdum, diam commodo egestas rhoncus, turpis nisi consectetur nibh, in vehicula eros orci vel neque.</p>
-          </div>
-        </div>
-        
-        <div class="row">
-          <div class="col-lg-6">
-          <h4>Two-One Donec porttitor augue</h4>
-          	<p>Quisque bibendum cursus viverra. Mauris at ex ipsum. Aenean condimentum urna nisl, eget interdum ante euismod vel. Aliquam at metus sit amet nunc dapibus posuere.</p>
-          </div>
-          <div class="col-lg-6">
-          <h4>Two-Two Donec porttitor augue</h4>
-          	<p>Maecenas et metus nisl. Morbi ac interdum metus. Aliquam erat volutpat. Donec posuere tortor vel volutpat consequat. Mauris sagittis magna vel tellus semper interdum et id sapien.</p>
-          </div>
-        </div>
-        
-        <div class="row">
-          <div class="col-lg-4 col-md-6">
-          <h4>1-03 Donec porttitor augue</h4>
-          	<p>Quisque bibendum cursus viverra. Mauris at ex ipsum. Aenean condimentum urna nisl, eget interdum ante euismod vel. Aliquam at metus sit amet nunc dapibus posuere.</p>
-          </div>
-          <div class="col-lg-4 col-md-6">
-          <h4>2-03 Donec porttitor augue</h4>
-          	<p>Maecenas et metus nisl. Morbi ac interdum metus. Aliquam erat volutpat. Donec posuere tortor vel volutpat consequat. Mauris sagittis magna vel tellus semper interdum et id sapien.</p>
-          </div>
-          <div class="col-lg-4">
-          <h4>3-03 Donec porttitor augue</h4>
-          	<p>Maecenas et metus nisl. Morbi ac interdum metus. Aliquam erat volutpat. Donec posuere tortor vel volutpat consequat. Mauris sagittis magna vel tellus semper interdum et id sapien.</p>
-          </div>
-        </div>
-        
-        
-        <div class="row">
-          <div class="col-lg-3 col-md-6">
-          <h4>01 Four Columns</h4>
-          	<p>Mauris at ex ipsum. Aenean condimentum urna nisl, eget interdum ante euismod vel. Aliquam at metus sit amet nunc dapibus posuere.</p>
-          </div>
-          <div class="col-lg-3 col-md-6">
-          <h4>02 Four Columns</h4>
-          	<p>Aliquam erat volutpat. Donec posuere tortor vel volutpat consequat. Mauris sagittis magna vel tellus semper interdum et id sapien.</p>
-          </div>
-          <div class="col-lg-3 col-md-6">
-          <h4>03 Four Columns</h4>
-          	<p>Morbi ac interdum metus. Donec posuere tortor vel volutpat consequat. Mauris sagittis magna vel tellus semper interdum et id sapien.</p>
-          </div>
-          <div class="col-lg-3 col-md-6">
-          <h4>04 Four Columns</h4>
-          	<p>Aliquam erat volutpat. Donec posuere tortor vel volutpat consequat. Mauris sagittis magna vel tellus semper interdum et id sapien.</p>
-          </div>
-        </div>
-        
-        <div class="row">
-          <div class="col-lg-12">
-            <ul class="social-icons">
-              <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-              <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-              <li><a href="#"><i class="fa fa-behance"></i></a></li>
-              <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-            </ul>
-          </div>
-        </div>
-        
-        
+  <div class="container">
+
+    <div class="row">
+      <div class="col-lg-12">
+        <img src="assets/images/about-us.jpg"   alt="Students collaborating at Vilnius Business College">
+        <p><strong>VVK Voices</strong> is the official student blog of <a href="https://www.kolegija.lt/en/vilnius-business-college/" target="_blank">Vilnius Business College</a>, created to empower our student community to share their voices, ideas, experiences, and creative work.</p>
+        <p>Whether you're writing about your academic journey, career goals, tech insights, study tips, or just student life in Lithuania — this platform is for you. Our mission is to encourage expression, build connections, and celebrate the diverse and international spirit of VVK.</p>
+        <p>Maintained by and for students, VVK Voices invites every voice to contribute. Articles, stories, interviews, reflections, and event coverage — it all belongs here. This blog is more than just a website; it's your stage. So write, read, and be heard!</p>
       </div>
-    </section>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-6">
+        <h4>Why We Built This Blog</h4>
+        <p>VVK is home to students from all over the world — and each student has something valuable to share. VVK Voices was launched to provide a creative and professional space where students can write, publish, and inspire one another.</p>
+      </div>
+      <div class="col-lg-6">
+        <h4>What You Can Expect</h4>
+        <p>We publish regular blog posts on topics such as technology, business, design, culture, education, student tips, and more. Posts may be written in English or Lithuanian depending on the contributor.</p>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-4 col-md-6">
+        <h4>For Students</h4>
+        <p>Got something to say? Write a post! VVK Voices is open to all current students who want to share their thoughts, research, or creativity.</p>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <h4>For Community</h4>
+        <p>Read what your classmates are up to, learn from peers, and discover different viewpoints. It’s about building a stronger VVK community.</p>
+      </div>
+      <div class="col-lg-4">
+        <h4>For the Future</h4>
+        <p>This blog also helps students build portfolios, writing experience, and digital confidence — valuable for your career ahead.</p>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-12">
+        <ul class="social-icons">
+          <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+          <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+          <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+          <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+</section>
+
 <?php include "footer.php"; ?>
